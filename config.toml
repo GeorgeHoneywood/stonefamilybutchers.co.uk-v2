@@ -1,6 +1,6 @@
 languageCode = "en-gb"
 title = "Stone Family Butchers"
-baseURL = "https://hugo-theme-massively.netlify.com/"
+baseURL = "http://localhost/"
 theme = "hugo-theme-massively"
 #googleanalytics = ""
 #disqusShortname = ""
