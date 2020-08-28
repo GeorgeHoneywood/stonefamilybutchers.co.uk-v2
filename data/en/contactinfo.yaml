@@ -1,0 +1,10 @@
+contactformaction: 'post-action'
+
+address:
+- line: '38 Victoria Road'
+- line: 'Ferndown, Dorset'
+- line: 'BH22 9HZ'
+
+phone: '01202 875525'
+
+email: 'kevstone012@gmail.com'
